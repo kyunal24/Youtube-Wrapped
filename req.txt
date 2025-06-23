@@ -1,0 +1,7 @@
+matplotlib
+pandas
+scikit-learn
+streamlit
+google-api-python-client
+python-dotenv
+isodate
